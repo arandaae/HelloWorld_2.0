@@ -1,0 +1,16 @@
+F:\C# Practice\HelloWorld_2.0\HelloWorld_2.0\HelloWorld_2.0\bin\Debug\net5.0\HelloWorld_2.0.exe
+F:\C# Practice\HelloWorld_2.0\HelloWorld_2.0\HelloWorld_2.0\bin\Debug\net5.0\HelloWorld_2.0.deps.json
+F:\C# Practice\HelloWorld_2.0\HelloWorld_2.0\HelloWorld_2.0\bin\Debug\net5.0\HelloWorld_2.0.runtimeconfig.json
+F:\C# Practice\HelloWorld_2.0\HelloWorld_2.0\HelloWorld_2.0\bin\Debug\net5.0\HelloWorld_2.0.runtimeconfig.dev.json
+F:\C# Practice\HelloWorld_2.0\HelloWorld_2.0\HelloWorld_2.0\bin\Debug\net5.0\HelloWorld_2.0.dll
+F:\C# Practice\HelloWorld_2.0\HelloWorld_2.0\HelloWorld_2.0\bin\Debug\net5.0\HelloWorld_2.0.pdb
+F:\C# Practice\HelloWorld_2.0\HelloWorld_2.0\HelloWorld_2.0\obj\Debug\net5.0\HelloWorld_2.0.csproj.AssemblyReference.cache
+F:\C# Practice\HelloWorld_2.0\HelloWorld_2.0\HelloWorld_2.0\obj\Debug\net5.0\HelloWorld_2.0.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Practice\HelloWorld_2.0\HelloWorld_2.0\HelloWorld_2.0\obj\Debug\net5.0\HelloWorld_2.0.AssemblyInfoInputs.cache
+F:\C# Practice\HelloWorld_2.0\HelloWorld_2.0\HelloWorld_2.0\obj\Debug\net5.0\HelloWorld_2.0.AssemblyInfo.cs
+F:\C# Practice\HelloWorld_2.0\HelloWorld_2.0\HelloWorld_2.0\obj\Debug\net5.0\HelloWorld_2.0.csproj.CoreCompileInputs.cache
+F:\C# Practice\HelloWorld_2.0\HelloWorld_2.0\HelloWorld_2.0\obj\Debug\net5.0\HelloWorld_2.0.dll
+F:\C# Practice\HelloWorld_2.0\HelloWorld_2.0\HelloWorld_2.0\obj\Debug\net5.0\refint\HelloWorld_2.0.dll
+F:\C# Practice\HelloWorld_2.0\HelloWorld_2.0\HelloWorld_2.0\obj\Debug\net5.0\HelloWorld_2.0.pdb
+F:\C# Practice\HelloWorld_2.0\HelloWorld_2.0\HelloWorld_2.0\obj\Debug\net5.0\HelloWorld_2.0.genruntimeconfig.cache
+F:\C# Practice\HelloWorld_2.0\HelloWorld_2.0\HelloWorld_2.0\obj\Debug\net5.0\ref\HelloWorld_2.0.dll
